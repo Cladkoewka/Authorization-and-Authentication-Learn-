@@ -1,11 +1,39 @@
 {
   "Version": 1,
-  "Hash": "ekQSKCHESW2SM65glhyvvUl36cwFl1RTiC7UwCnR+bQ=",
+  "Hash": "7PIVVRecyL98oBMJkSzoyLOALeteF9wm/1X5m5c51aY=",
   "Source": "Experiments",
   "BasePath": "_content/Experiments",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": []
+  "DiscoveryPatterns": [
+    {
+      "Name": "Experiments\\wwwroot",
+      "Source": "Experiments",
+      "ContentRoot": "C:\\ITProjects\\.Net\\Experiments\\wwwroot\\",
+      "BasePath": "_content/Experiments",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\ITProjects\\.Net\\Experiments\\wwwroot\\index.html",
+      "SourceId": "Experiments",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\ITProjects\\.Net\\Experiments\\wwwroot\\",
+      "BasePath": "_content/Experiments",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
 }

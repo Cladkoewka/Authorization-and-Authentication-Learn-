@@ -23,3 +23,15 @@ C:\ITProjects\.Net\Experiments\obj\Debug\net8.0\refint\Experiments.dll
 C:\ITProjects\.Net\Experiments\obj\Debug\net8.0\Experiments.pdb
 C:\ITProjects\.Net\Experiments\obj\Debug\net8.0\Experiments.genruntimeconfig.cache
 C:\ITProjects\.Net\Experiments\obj\Debug\net8.0\ref\Experiments.dll
+C:\ITProjects\.Net\Experiments\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\ITProjects\.Net\Experiments\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\ITProjects\.Net\Experiments\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\ITProjects\.Net\Experiments\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\ITProjects\.Net\Experiments\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\ITProjects\.Net\Experiments\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\ITProjects\.Net\Experiments\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\ITProjects\.Net\Experiments\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\ITProjects\.Net\Experiments\obj\Debug\net8.0\Experiments.csproj.AssemblyReference.cache
+C:\ITProjects\.Net\Experiments\obj\Debug\net8.0\Experiments.sourcelink.json
+C:\ITProjects\.Net\Experiments\obj\Debug\net8.0\Experime.642F9F34.Up2Date
+C:\ITProjects\.Net\Experiments\bin\Debug\net8.0\Experiments.staticwebassets.runtime.json
